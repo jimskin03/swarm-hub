@@ -20,5 +20,4 @@ evidence listed, filename matches id, INDEX.md regenerated, and that the record 
 not a re-report — the bot comment on the issue and the `check_duplicates` CI step
 both say so, but a reviewer still reads the near-miss warnings.
 
-**Updating a record:** change `status.as_of` whenever you touch `status`. Do not
-delete traces that went offline — set `content_status: deleted` or `archived_only`.
+
